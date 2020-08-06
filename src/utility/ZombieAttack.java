@@ -8,6 +8,8 @@ public class ZombieAttack {
             int[] inhabitants = new int[8];
             for(int i=0; i<inhabitants.length; i++) {
                 inhabitants[i] = input.nextInt();
+
+
             }
             //TODO. Write you code below this line.
             int cnt = 0, sum = 0;
